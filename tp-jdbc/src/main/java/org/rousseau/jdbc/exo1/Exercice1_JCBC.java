@@ -7,6 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.function.Function;
 
+
 public class Exercice1_JCBC  {
 
 	//********************
